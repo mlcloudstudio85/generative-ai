@@ -78,7 +78,6 @@
   - [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
     - [Dimension reduction techniques](#dimension-reduction-techniques)
   - [Roadmaps, Tracks, Rails](#roadmaps-tracks-rails)
-  - [Contribute](#contribute)
   - [License](#license)
 
 ## Repository Introduction
@@ -1411,13 +1410,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 * [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/) 
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Gaurav Gupta has waived all copyright and
-related or neighboring rights to this work.
